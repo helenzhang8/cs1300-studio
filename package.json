@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "engines": {
-    "node": "6.11.1"
+    "node": "15.1.0"
   },
   "dependencies": {
     "react": "16.14.0",
