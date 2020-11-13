@@ -1,13 +1,12 @@
 import React, {Component} from 'react'
 
-import FeaturedVideoIcon from '@material-ui/icons/FeaturedVideo'
-import {FormControl,Input,Button,List,ListItem,ListItemText,ListItemIcon,Card} from '@material-ui/core'
 
 import getRandomFruitsName from 'random-fruits-name'
+import 'randomcolor'
+import 'random-text-meme'
 
 var randomColor = require('randomcolor');
 const fruit = require('random-fruits-name')
-const joke = require('awesome-dev-jokes')
 const { getEmoji, getAllEmoji, getThemes } = require('random-text-meme')
 
 class ReactItem extends Component { 

@@ -1,6 +1,5 @@
 import React, {Component} from 'react'
 
-import FeaturedVideoIcon from '@material-ui/icons/FeaturedVideo'
 import {FormControl,Input,Button,List,ListItem,ListItemText,ListItemIcon,Card} from '@material-ui/core'
 
 import ReactItem from './ReactItem'
