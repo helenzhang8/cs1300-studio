@@ -2,6 +2,9 @@
   "name": "cs1300-studio",
   "version": "0.0.0",
   "private": true,
+  "engines": {
+    "node": "6.11.1"
+  },
   "dependencies": {
     "react": "16.14.0",
     "react-dom": "16.14.0",
